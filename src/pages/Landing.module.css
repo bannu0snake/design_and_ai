@@ -1,0 +1,10 @@
+.landing-text-parent{
+    width: 100%;
+    position: relative;
+}
+.landing-image {
+    position: absolute;
+    top: -9rem;
+    /* bottom: 0; */
+    right: -6rem;
+}

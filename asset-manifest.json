@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/design-and-ai/static/css/main.eb8da8af.css",
+    "main.js": "/design-and-ai/static/js/main.a55f31b8.js",
+    "static/js/453.504cdc5e.chunk.js": "/design-and-ai/static/js/453.504cdc5e.chunk.js",
+    "static/media/laptop.svg": "/design-and-ai/static/media/laptop.fcb3e35c7cc89ce427c26935fcb95b23.svg",
+    "static/media/logo.svg": "/design-and-ai/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/design-and-ai/index.html",
+    "main.eb8da8af.css.map": "/design-and-ai/static/css/main.eb8da8af.css.map",
+    "main.a55f31b8.js.map": "/design-and-ai/static/js/main.a55f31b8.js.map",
+    "453.504cdc5e.chunk.js.map": "/design-and-ai/static/js/453.504cdc5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb8da8af.css",
+    "static/js/main.a55f31b8.js"
+  ]
+}

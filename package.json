@@ -2,7 +2,7 @@
   "name": "design_and_ai",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bannu0snake.github.io/design-and-ai",
+  "homepage": "https://bannu0snake.github.io/design_and_ai",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

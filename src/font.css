@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Bagoss';
+    src: local('CustomFont1Name'),
+         url('./fonts/BagossStandardTRIAL-Bold.woff') format('woff'),
+         url('./fonts/BagossStandardTRIAL-Bold.woff2') format('woff2');
+}

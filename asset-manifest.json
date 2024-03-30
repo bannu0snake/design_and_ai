@@ -1,29 +1,38 @@
 {
   "files": {
-    "main.css": "/design_and_ai/static/css/main.2e38dd3e.css",
-    "main.js": "/design_and_ai/static/js/main.715078d7.js",
+    "main.css": "/design_and_ai/static/css/main.f94ee317.css",
+    "main.js": "/design_and_ai/static/js/main.2a9f41fb.js",
     "static/js/453.504cdc5e.chunk.js": "/design_and_ai/static/js/453.504cdc5e.chunk.js",
     "static/media/laptop.svg": "/design_and_ai/static/media/laptop.fcb3e35c7cc89ce427c26935fcb95b23.svg",
+    "static/media/projectTimeline.png": "/design_and_ai/static/media/projectTimeline.31d8bb598d5cfd220ad1.png",
+    "static/media/bgimage.png": "/design_and_ai/static/media/bgimage.ed71141f1bbfbbd1124a.png",
     "static/media/image1.jpg": "/design_and_ai/static/media/image1.ecb9d7f9873c20db2c9b.jpg",
     "static/media/image2.png": "/design_and_ai/static/media/image2.9a9cadf689f926b5ccb9.png",
     "static/media/image4.png": "/design_and_ai/static/media/image4.0206fdc9b838951d37d1.png",
     "static/media/image3.png": "/design_and_ai/static/media/image3.e902025362ad173bf833.png",
+    "static/media/Vector.svg": "/design_and_ai/static/media/Vector.4761a1e34faa746beca67f8d6ce4e4e0.svg",
     "static/media/Frame 6.svg": "/design_and_ai/static/media/Frame 6.b8409d21d167f3065ab94feda67bf478.svg",
+    "static/media/Group2.svg": "/design_and_ai/static/media/Group2.83f2c43c224569582fb52861e151b81a.svg",
     "static/media/receipt_long_black_24dp (1) 1.svg": "/design_and_ai/static/media/receipt_long_black_24dp (1) 1.f0ece9b40cc792491ba878c19fb33f07.svg",
     "static/media/delivery_dining_black_24dp 1.svg": "/design_and_ai/static/media/delivery_dining_black_24dp 1.16de8922da06a66fb23ac188393fe297.svg",
     "index.html": "/design_and_ai/index.html",
+    "static/media/Quote Mark.svg": "/design_and_ai/static/media/Quote Mark.fb3dad678df00bc6f0c7c60ceb9b9054.svg",
+    "static/media/el_idea.svg": "/design_and_ai/static/media/el_idea.d9d313db8c93a111dc73fab5f3b8d77b.svg",
     "static/media/card_membership_black_24dp 1.svg": "/design_and_ai/static/media/card_membership_black_24dp 1.3ad1a4b311831e3a7ef20ac58f462d22.svg",
+    "static/media/Group1.svg": "/design_and_ai/static/media/Group1.0eba9cffbccd7e4ed21274ccb40b8ab7.svg",
     "static/media/Frame 7.svg": "/design_and_ai/static/media/Frame 7.d9d52310e2a94c5e58b054b93e64ef4b.svg",
     "static/media/phone_iphone_black_24dp (1) 1.svg": "/design_and_ai/static/media/phone_iphone_black_24dp (1) 1.7b4b79d81ce87daa021ab4272410c8b2.svg",
     "static/media/la_university.svg": "/design_and_ai/static/media/la_university.ba77abd0e77267445df2a45f69d6f663.svg",
+    "static/media/bi_laptop-fill.svg": "/design_and_ai/static/media/bi_laptop-fill.729d67641b6a27843c201185d82ea8f5.svg",
     "static/media/bx_food-menu.svg": "/design_and_ai/static/media/bx_food-menu.67340e1c13f8bfa45b8fcd2424954c88.svg",
     "static/media/ic_baseline-event-note.svg": "/design_and_ai/static/media/ic_baseline-event-note.729e8d2572ec2c6973db686336a70c0c.svg",
-    "main.2e38dd3e.css.map": "/design_and_ai/static/css/main.2e38dd3e.css.map",
-    "main.715078d7.js.map": "/design_and_ai/static/js/main.715078d7.js.map",
+    "static/media/Group.svg": "/design_and_ai/static/media/Group.21e69cb03d29f388f8d7519d5eff8a79.svg",
+    "main.f94ee317.css.map": "/design_and_ai/static/css/main.f94ee317.css.map",
+    "main.2a9f41fb.js.map": "/design_and_ai/static/js/main.2a9f41fb.js.map",
     "453.504cdc5e.chunk.js.map": "/design_and_ai/static/js/453.504cdc5e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e38dd3e.css",
-    "static/js/main.715078d7.js"
+    "static/css/main.f94ee317.css",
+    "static/js/main.2a9f41fb.js"
   ]
 }

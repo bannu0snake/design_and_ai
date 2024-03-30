@@ -6,7 +6,7 @@ const Landing = () => {
   const [btnTxt, setBtnTxt] = useState("UI/UX Designer");
   return (
     <div className="relative">
-      <div className="absolute right-0 top-0 rounded-full bg-amber-400 opacity-20 w-[25.375rem] h-[25.375rem] blur-2xl"></div>
+      <div className="absolute right-0 top-0 rounded-full bg-amber-400 opacity-20 w-[full] h-[25.375rem] blur-2xl"></div>
       <div className="p-[7rem] relative">
         <SmallTitle />
 

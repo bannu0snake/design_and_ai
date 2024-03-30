@@ -11,6 +11,7 @@ module.exports = {
         rubik: ["Rubik", "sans-serif"],
         bagoss: ["Bagoss", "sans-serif"],
         montserrat: ["Montserrat", "sans-serif"],
+        inter: ["Inter", "sans-serif"],
       },
     },
   },

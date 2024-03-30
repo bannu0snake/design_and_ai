@@ -3,6 +3,7 @@ import Landing from "./pages/Landing/Landing";
 import Introduction from "./pages/Introduction/Introduction";
 import Page1 from "./pages/Preparation/Page1";
 import Page2 from "./pages/Preparation/Page2";
+import MyRole from "./pages/MyRole/MyRole";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <Page1 />
         <Page2 />
       </div>
+      <MyRole />
     </div>
   );
 }

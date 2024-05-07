@@ -6,6 +6,7 @@ import Page2 from "./pages/Preparation/Page2";
 import MyRole from "./pages/MyRole/MyRole";
 import UserPersona1 from "./pages/persona/UserPersona1";
 import UserPersona2 from "./pages/persona/UserPersona2";
+import EmpathyMap from "./pages/EmpathyMap/EmpathyMap";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <MyRole />
       <UserPersona1 />
       <UserPersona2 />
+      <EmpathyMap />
     </div>
   );
 }

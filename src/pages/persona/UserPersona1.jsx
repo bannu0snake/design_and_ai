@@ -14,7 +14,9 @@ const UserPersona1 = () => {
           </div>
         </div>
         <div className="mt-[1rem] flex">
-          <div className="basis-1/2 text-white text-[4rem]">USER PERSONA</div>
+          <div className="basis-1/2 text-white font-bagoss text-[4rem]">
+            USER PERSONA
+          </div>
           <div className="flex gap-[2rem]">
             <div className="flex flex-col">
               <div className=" text-white text-sm font-black font-montserrat leading-[17px]">

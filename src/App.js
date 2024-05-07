@@ -7,6 +7,7 @@ import MyRole from "./pages/MyRole/MyRole";
 import UserPersona1 from "./pages/persona/UserPersona1";
 import UserPersona2 from "./pages/persona/UserPersona2";
 import EmpathyMap from "./pages/EmpathyMap/EmpathyMap";
+import ThinkAndFeel from "./pages/ThinkAndFeel";
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
       <UserPersona1 />
       <UserPersona2 />
       <EmpathyMap />
+      <ThinkAndFeel />
     </div>
   );
 }

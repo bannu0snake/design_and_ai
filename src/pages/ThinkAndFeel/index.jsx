@@ -27,7 +27,34 @@ const ThinkAndFeel = () => {
             left: "10px",
             zIndex: 0,
           }}
-        ></div>
+        >
+          <div className="w-full items-center flex flex-col gap-11">
+            <div className="text-center font-inter text-2xl leading-[3.5rem]">
+              What does he
+            </div>
+            <div className="text-center text-yellow-300 text-5xl font-inter leading-[3.5rem]">
+              Think & feel
+            </div>
+            <div className="justify-center flex gap-72 font-normal font-inter">
+              <div className="w-60">Is the event expensive? </div>
+              <div className="w-60 text-right">
+                What will be the overall expense?
+              </div>
+            </div>
+            <div className="justify-center flex gap-20 font-normal font-inter">
+              <div className="w-60">
+                How long should I wait before booking the event?{" "}
+              </div>
+              <div className="w-60 text-right">
+                Who are the best speakers which I should not miss?
+              </div>
+            </div>
+            <div className="w-60 text-center font-normal font-inter">
+              Will I be able to attend all the days of the event?
+            </div>
+            <div className="font-normal font-inter">Who are the speakers?</div>
+          </div>
+        </div>
         <div
           style={{
             backgroundImage:
